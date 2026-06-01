@@ -1,0 +1,73 @@
+ .container, .container-fluid, .container-lg, .container-md{
+    border: solid black;
+}
+body {
+    background: #05070c;
+    color: #fff;
+}
+header {
+    background: #575963;
+  
+}
+main article {
+    color: #000;
+    background: #fff;
+    padding: 20px;
+}
+aside {
+    background: #238399;
+    padding: 20px;
+}
+footer {
+    background: #783532;
+    padding: 20px;
+}
+header{
+    background-color: rgb(127, 145, 127) ;
+ height: 150px;
+}
+
+section{
+    background-color: rgb(115, 115, 132);
+    
+}
+footer{
+    background:#1e3a5f;
+    color:white;
+    text-align:center;
+  
+}
+
+.redes a{
+    color:white;
+    font-size:24px;
+    margin:0 10px;
+    text-decoration:none;
+}
+
+p{
+    color: rgb(225, 232, 232);
+}
+
+
+
+.mascota{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 100;
+}
+
+.mascota img{
+    width: 120px;
+    cursor: pointer;
+}
+
+.mensaje{
+    background: rgb(135, 101, 101);
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 200px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    margin-bottom: 10px;
+}

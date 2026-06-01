@@ -67,6 +67,6 @@ p{
 .btn{
     position: absolute;
     bottom: 100px;
-    right: 50px;
+    right: 100px;
     z-index: 100;
 }

@@ -44,13 +44,10 @@ footer{
 p{
     color: rgb(225, 232, 232);
 }
-
-
-
 .mascota{
     position: fixed;
     bottom: 20px;
-    right: 20px;
+    right: 5px;
     z-index: 100;
 }
 
@@ -66,4 +63,10 @@ p{
     max-width:100px;
     box-shadow: 0 0 10px rgba(0,0,0,0.2);
     margin-bottom: 5px;
+}
+.btn{
+    position: absolute;
+    bottom: 100px;
+    right: 50px;
+    z-index: 100;
 }

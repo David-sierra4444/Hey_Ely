@@ -19,23 +19,19 @@ aside {
     padding: 20px;
 }
 footer {
-    background: #783532;
-    padding: 20px;
+    background: #783532
 }
 header{
     background-color: rgb(127, 145, 127) ;
- height: 150px;
 }
 
 section{
     background-color: rgb(115, 115, 132);
-    
 }
 footer{
     background:#1e3a5f;
     color:white;
     text-align:center;
-  
 }
 
 .redes a{
